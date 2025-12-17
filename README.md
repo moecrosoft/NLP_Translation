@@ -1,2 +1,2 @@
 # NLP_Translation
-Building RNN Seq2Seq model for language translation
+This project builds RNN Seq2Seq model for language translation. The encoder and decoders are constructed and combined in the Seq2Seq model. Then the model is trained and evaluated on German and English language dataset. Then Perplexity and BLEU score are calculated to evaluate model performance. A function is created to generate the model translation. Finally, the function is used on a sample german sentence to test the model translation.
